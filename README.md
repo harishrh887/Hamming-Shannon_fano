@@ -93,5 +93,5 @@ Compare the manually calculated value and the observed practical value.
  
 # Results:
 ```
-Write the conclusion
+Thus the simulation of Huffman-Shannon_fano is verified.
 ```
