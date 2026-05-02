@@ -210,9 +210,20 @@ print("=" * 60)
 
 # Calculation:
 
+# Huffman
+
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/32ffa22d-5603-419f-bec6-c94bca13d36e" />
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/63c9962d-da86-4a24-aa3d-9cdb461029c9" />
+
+# Shannon
+
+<img width="1086" height="1600" alt="image" src="https://github.com/user-attachments/assets/3fef6d7c-f965-4bdc-a0d4-4041b320686b" />
+
+<img width="1029" height="1600" alt="image" src="https://github.com/user-attachments/assets/c0861b0a-bd8a-42da-9865-1dfec9ed1abd" />
+
+
+
 
 # Output
 
