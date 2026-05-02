@@ -210,7 +210,8 @@ print("=" * 60)
 
 # Calculation:
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d1799e3a-ff6d-4341-b995-d546526bc841" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/32ffa22d-5603-419f-bec6-c94bca13d36e" />
+
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/63c9962d-da86-4a24-aa3d-9cdb461029c9" />
 
 # Output
